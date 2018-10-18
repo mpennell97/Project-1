@@ -51,7 +51,7 @@
     "height": 27,
     "width": 125,
     "x": 7,
-    "y": 3
+    "y": 4
   },
   "glyphBounds": "{{5, 2}, {114, 18}}",
   "isFixedToViewport": false,
@@ -101,25 +101,5 @@
   },
   "textBehaviour": 2,
   "userInfo": {
-    "com.invision.prototype": {
-      "backgroundOpacity": 0,
-      "closeOnClickOutside": 1,
-      "componentType": "SRLink",
-      "fixOverlayPosition": 1,
-      "gesture": 7,
-      "linkType": 0,
-      "maintainScrollPositionAfterGesture": 0,
-      "maintainScrollPositionAfterRedirect": 0,
-      "openURLInNewWindow": 0,
-      "overlayPosition": 0,
-      "overlayTransition": 0,
-      "redirectAfter": 0,
-      "reverseTransitionOnClose": 1,
-      "scrollToPosition": 0,
-      "smoothScrolling": 0,
-      "stayOnTargetScreen": 0,
-      "targetArtboardID": "45EA189A-8E49-40AF-9BBA-1E3ADB3A3BCA",
-      "transition": 1
-    }
   }
 }

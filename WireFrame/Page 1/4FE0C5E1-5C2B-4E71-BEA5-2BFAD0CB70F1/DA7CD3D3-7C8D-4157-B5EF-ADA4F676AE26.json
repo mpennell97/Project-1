@@ -17,7 +17,7 @@
     "height": 30,
     "width": 139,
     "x": 118,
-    "y": 423
+    "y": 479
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -43,5 +43,27 @@
     "windingRule": 1
   },
   "symbolID": "E8D7FD51-22D5-4EE5-86A3-768F3F506250",
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 7,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "E043F9FD-E19D-4F0E-8AB5-CAA4C90D292F",
+      "transition": 1
+    }
+  },
   "verticalSpacing": 0
 }
