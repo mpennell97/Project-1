@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D2D2F5CB-5A51-43C6-B02A-4062840667F5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D0D92D3D-96BE-4414-982C-054F9B7293EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B14616D0-CD1D-49BB-967C-512C9976D953",
+    "height": 125,
+    "width": 274,
+    "x": 50,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Copy 5",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D017CFB9-7CF4-4B55-89F8-A3B0F471EFDC",
+      "overrideName": "CB8C8C8E-5CF5-4EF2-ADC9-62550146E7D3_stringValue",
+      "value": "New Password"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "19382B93-2095-44D7-A463-E65CD7782753",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF1EE106-7B98-47ED-BDB3-85625F367F54",
+  "verticalSpacing": 0
+}

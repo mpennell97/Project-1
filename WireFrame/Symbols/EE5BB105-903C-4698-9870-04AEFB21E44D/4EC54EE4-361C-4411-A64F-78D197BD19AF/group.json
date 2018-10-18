@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 77,
+    "height": 73,
     "width": 292,
     "x": 0,
-    "y": 0
+    "y": 22
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -30,10 +30,6 @@
     {
       "class": "group",
       "id": "47EE9EB5-E1F0-4230-A977-355A262C3364"
-    },
-    {
-      "class": "text",
-      "id": "E385C1AB-86AE-4C4C-9721-C048287B6E8E"
     }
   ],
   "name": "input",
@@ -46,6 +42,28 @@
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   }

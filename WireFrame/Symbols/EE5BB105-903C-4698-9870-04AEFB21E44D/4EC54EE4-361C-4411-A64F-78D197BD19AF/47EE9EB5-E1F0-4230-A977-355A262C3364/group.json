@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 55,
+    "height": 73,
     "width": 292,
     "x": 0,
-    "y": 22
+    "y": 0
   },
   "hasClickThrough": false,
   "isFixedToViewport": false,
@@ -44,6 +44,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 6,
+      "opacity": 0.1385602678571428
+    },
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

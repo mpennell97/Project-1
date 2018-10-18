@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "281A44A3-A76D-4D1B-96B8-3A269AC0667D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9303C704-9D9C-4AF3-A052-D021284C585D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7AFCB49D-4F71-4FBB-A8DC-398F06E6D12E",
+    "height": 136,
+    "width": 274,
+    "x": 50,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81125DC7-C343-4A06-B4D5-7A1A2B9FDE41",
+      "overrideName": "CB8C8C8E-5CF5-4EF2-ADC9-62550146E7D3_stringValue",
+      "value": "Incorrect Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "84FF1409-339E-48E9-9E0A-65C0BC1B3A18",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF1EE106-7B98-47ED-BDB3-85625F367F54",
+  "verticalSpacing": 0
+}

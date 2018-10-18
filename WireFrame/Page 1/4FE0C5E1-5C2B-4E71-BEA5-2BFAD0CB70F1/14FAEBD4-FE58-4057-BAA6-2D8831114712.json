@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "14FAEBD4-FE58-4057-BAA6-2D8831114712",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1397A60-8E61-4E80-8442-5C006D2E188E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1D98A5DE-83EC-4F0B-A0B2-0A4FFC4DDDE3",
+    "height": 84,
+    "width": 274,
+    "x": 50,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81125DC7-C343-4A06-B4D5-7A1A2B9FDE41",
+      "overrideName": "CB8C8C8E-5CF5-4EF2-ADC9-62550146E7D3_stringValue",
+      "value": "Login"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5B282E73-BD38-44C6-AB3E-1142D2F517B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF1EE106-7B98-47ED-BDB3-85625F367F54",
+  "verticalSpacing": 0
+}

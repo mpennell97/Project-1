@@ -3,10 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "do_objectID": "99523C1A-CE03-4890-8614-94DA73B3A514",
-    "green": 1,
-    "red": 1
+    "blue": 0.6,
+    "green": 0.5725490196078431,
+    "red": 0.4392156862745099
   },
   "booleanOperation": -1,
   "do_objectID": "A754C5E4-D434-4FC4-B86E-121DA905396A",
@@ -47,19 +46,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "46829E62-02D8-4EE0-930D-C73A45D19541"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AAE1AFCB-DD9F-44C4-AE5A-52773079D1DF"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "460C10E2-1095-48EC-ACD2-A9E14C4CA2FC"
+      "id": "37A3F54C-A12B-4176-88A7-9A1D98D0235A"
     },
     {
       "class": "symbolInstance",
@@ -71,7 +62,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "B6EFE766-06DA-40E9-8C03-FCEE52CF0F00"
+      "id": "E5CE34B8-8927-4BC4-BDAC-007DC3C0B48E"
     }
   ],
   "layout": {
@@ -118,7 +109,9 @@
     "do_objectID": "28EBFBF4-9E58-4829-BD7E-ADEA9D26B195",
     "guides": [
       560,
-      83
+      83,
+      239,
+      331
     ]
   }
 }

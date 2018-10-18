@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "D4361C87-E881-453C-BE4F-7FF3945BADAA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B52ACD14-8483-4B0A-87DB-B1164B6FE7BE",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E507CBE1-6D75-4FAE-B9C3-7ABF34453919",
+    "height": 127,
+    "width": 274,
+    "x": 49,
+    "y": 75
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Text Copy 4",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "81125DC7-C343-4A06-B4D5-7A1A2B9FDE41",
+      "overrideName": "CB8C8C8E-5CF5-4EF2-ADC9-62550146E7D3_stringValue",
+      "value": "Send Reset"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "38A4C3DE-AAB7-4805-B309-1A19B36DCB09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "CF1EE106-7B98-47ED-BDB3-85625F367F54",
+  "verticalSpacing": 0
+}

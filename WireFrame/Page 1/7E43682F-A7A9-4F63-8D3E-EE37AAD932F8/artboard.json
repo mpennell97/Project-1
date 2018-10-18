@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.6,
+    "green": 0.5725490196078431,
+    "red": 0.4392156862745099
   },
   "booleanOperation": -1,
   "do_objectID": "7E43682F-A7A9-4F63-8D3E-EE37AAD932F8",
@@ -45,11 +45,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "55934552-0552-44BD-8D82-FF73CE0C94EF"
+      "id": "E3901D56-2A13-485A-8F37-29D7FCF2C35A"
     },
     {
       "class": "symbolInstance",
@@ -65,15 +65,7 @@
     },
     {
       "class": "symbolInstance",
-      "id": "47513CF3-F6FF-45D4-9C94-323A7C7908F7"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "3BFDB41B-B837-4F38-8EA3-47A69B6B981D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "88216D92-E404-45FD-A12E-F57A21C51A5B"
+      "id": "17371D15-50CF-4E85-B653-A7F7FD4827F6"
     }
   ],
   "layout": {

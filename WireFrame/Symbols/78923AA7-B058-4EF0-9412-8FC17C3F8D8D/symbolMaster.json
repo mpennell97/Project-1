@@ -8,7 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 98,
+  "changeIdentifier": 441,
   "do_objectID": "78923AA7-B058-4EF0-9412-8FC17C3F8D8D",
   "exportOptions": {
     "_class": "exportOptions",
@@ -47,12 +47,8 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "AEB472B3-95A1-4559-AAD6-3AF3BC9386DC"
-    },
-    {
-      "class": "text",
-      "id": "E714E258-6E54-421A-9894-0052FC86F94D"
+      "class": "group",
+      "id": "EDED83B2-2B6A-48E2-A8AC-6A2CF04407AD"
     }
   ],
   "name": "Entry2",

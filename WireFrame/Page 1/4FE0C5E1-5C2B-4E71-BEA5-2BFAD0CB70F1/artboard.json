@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.6,
+    "green": 0.5725490196078431,
+    "red": 0.4392156862745099
   },
   "booleanOperation": -1,
   "do_objectID": "4FE0C5E1-5C2B-4E71-BEA5-2BFAD0CB70F1",
@@ -42,11 +42,11 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "symbolInstance",
-      "id": "BA630317-744A-4A9A-9973-DF4E8E2039E2"
+      "id": "D5134B67-898E-4441-9C06-67A5DC2966D7"
     },
     {
       "class": "symbolInstance",
@@ -58,23 +58,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "C14A21EC-7002-491B-8788-74A4AAC17D9D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "89B704D7-6AE5-44AF-9D8C-76406A84E98A"
-    },
-    {
-      "class": "text",
-      "id": "AFBCBDF7-8397-4C61-9907-A35E0FB13429"
+      "id": "DA7CD3D3-7C8D-4157-B5EF-ADA4F676AE26"
     },
     {
       "class": "symbolInstance",
-      "id": "C4F1C0CB-98E2-4F8E-9558-98F7CB7CB629"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7967E01C-B5E2-439B-A22B-EA95F4574615"
+      "id": "14FAEBD4-FE58-4057-BAA6-2D8831114712"
     }
   ],
   "layout": {
@@ -118,7 +106,10 @@
     "base": 0,
     "guides": [
       81,
-      560
+      560,
+      332,
+      239,
+      423
     ]
   }
 }
